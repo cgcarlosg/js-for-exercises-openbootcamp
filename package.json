@@ -1,0 +1,24 @@
+{
+  "name": "js-openbootcamp",
+  "version": "1.0.0",
+  "description": "Primer proyecto node js en openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgcarlosg/js-for-exercises-openbootcamp.git"
+  },
+  "keywords": [
+    "js",
+    "openbootcamp"
+  ],
+  "author": "Carlos Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgcarlosg/js-for-exercises-openbootcamp/issues"
+  },
+  "homepage": "https://github.com/cgcarlosg/js-for-exercises-openbootcamp#readme"
+}

@@ -4,7 +4,7 @@
   "description": "Primer proyecto node js en openbootcamp",
   "main": "index.js",
   "scripts": {
-    "start": "node factoriales/factorial-for.js",
+    "start": "node factoriales/factorial-while.js",
     "primer-saludo": "node primerSaludo.js",
     "lista": "node lista.js",
     "test": "echo \"Error: no test specified\" && exit 1"

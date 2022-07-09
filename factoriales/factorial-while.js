@@ -1,8 +1,8 @@
 let i=1;
-let total=10;
+let num=10;
 
 while(i<11){
-    total=total*i;
+    num=num*i;
     i++;
 }
-console.log(total);
+console.log(num);

@@ -4,7 +4,7 @@
   "description": "Primer proyecto node js en openbootcamp",
   "main": "index.js",
   "scripts": {
-    "start": "node ejercicioFunciones.js",
+    "start": "node index.js",
     "primer-saludo": "node primerSaludo.js",
     "lista": "node lista.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/cgcarlosg/js-for-exercises-openbootcamp/issues"
   },
-  "homepage": "https://github.com/cgcarlosg/js-for-exercises-openbootcamp#readme"
+  "homepage": "https://github.com/cgcarlosg/js-for-exercises-openbootcamp#readme",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
 }
